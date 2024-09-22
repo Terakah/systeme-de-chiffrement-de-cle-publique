@@ -12,7 +12,7 @@ Afin d'expérimenter le sujet au mieux, nous devions:
 
 Dans le fichier code, le modèle est le suivant: 
 - Introduire le nombre de sommets
-- Choisir son message
+- Choisir son message (l'alphabet étant ' abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 - Chiffrer a via "chiffrement(a)"
 - Décoder le graphe obtenu via "decode(L)", L étant le graphe obtenu par la fonction précédente.
 
