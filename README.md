@@ -9,3 +9,11 @@ Afin d'expérimenter le sujet au mieux, nous devions:
 - Créer un chiffrement et un déchiffrement sous forme de graphes
 - Fabriquer les clés publiques et privées
 - Déchiffrer des graphes vastes sans connaître la clé secrète
+
+Dans le fichier code, le modèle est le suivant: 
+- Introduire le nombre de sommets
+- Choisir son message
+- Chiffrer a via "chiffrement(a)"
+- Décoder le graphe obtenu via "decode(L)", L étant le graphe obtenu par la fonction précédente.
+
+
